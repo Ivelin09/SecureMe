@@ -1,0 +1,4 @@
+/home/ivelin/Desktop/SecureMe/CMakeFiles/rebuild_cache.dir
+/home/ivelin/Desktop/SecureMe/CMakeFiles/edit_cache.dir
+/home/ivelin/Desktop/SecureMe/CMakeFiles/helloworld.dir
+/home/ivelin/Desktop/SecureMe/CMakeFiles/helloworld_autogen.dir
